@@ -2,11 +2,11 @@
 
 Game server Rcon, using websockets.
 
-This website is accessible [here](http://facepunch.github.io/webrcon/).
+This website is accessible [here](http://xero-nova.github.io/webrcon/).
 
 ## Source Code
 
-The source code for the site is on the [gh-pages branch](https://github.com/Facepunch/webrcon/tree/gh-pages). 
+The source code for the site is on the [gh-pages branch](https://github.com/xero-nova/webrcon/tree/gh-pages).
 
 The code is purposely made to work purely in the browser - with no server backend, and on as many devices as possible. It is meant to serve as an example of how to communicate with websocket rcon, but should be fully functional.
 
